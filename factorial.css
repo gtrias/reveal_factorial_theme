@@ -9,6 +9,9 @@
 html * {
   color-profile: sRGB;
   rendering-intent: auto;
+}
+
+.reveal {
   background: #2b2b2b;
   background-color: var(--r-background-color);
 }
