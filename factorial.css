@@ -232,6 +232,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
   text-transform: none;
   tab-size: 2;
   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15);
+  background: var(--r-link-color-dark);
 }
 
 .reveal pre code {
