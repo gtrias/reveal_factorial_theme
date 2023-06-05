@@ -9,6 +9,8 @@
 html * {
   color-profile: sRGB;
   rendering-intent: auto;
+  background: #2b2b2b;
+  background-color: var(--r-background-color);
 }
 
 section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
@@ -51,6 +53,8 @@ section.has-light-background, section.has-light-background h1, section.has-light
 }
 
 .reveal {
+  background: #f7f2f2;
+  background-color: var(--r-background-color);
   font-family: var(--r-main-font);
   font-size: var(--r-main-font-size);
   font-weight: normal;
